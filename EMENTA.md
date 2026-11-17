@@ -1,0 +1,85 @@
+# Ementa — Machine Learning Aplicado à Engenharia
+
+Disciplina de graduação em **Engenharia Elétrica**, ofertada na **Universidade Federal de São João del-Rei (UFSJ)**.
+
+**Professor:** Samir A. M. Martins
+
+[Materiais da disciplina](README.md)
+
+## Objetivos
+
+- Aplicar técnicas de aprendizado de máquina em problemas de Engenharia.
+- Desenvolver soluções computacionais para tarefas de classificação e regressão.
+- Explorar sistemas de recomendação e análise de dados em contextos aplicados.
+- Construir experimentos reprodutíveis com ferramentas amplamente utilizadas no ecossistema Python.
+
+## Conteúdo Programático
+
+### 1. Python Básico
+
+- O Zen do Python
+- Anaconda, bibliotecas e ambientes
+- NumPy, Pandas e Matplotlib
+
+### 2. Estatística e Probabilidade
+
+- Tendências centrais
+- Correlação e causalidade
+- Correlações espúrias
+- Dependência e independência
+- Probabilidade condicional
+- Variáveis aleatórias e distribuições probabilísticas
+
+### 3. Dados em Python
+
+- Leitura de arquivos
+- Extração de dados de fontes confiáveis na internet
+- Descoberta e uso de APIs
+
+### 4. Aprendizado de Máquina
+
+- Definições fundamentais
+- Sobreajuste e subajuste
+- Dilema viés-variância
+
+### 5. Técnicas de Classificação
+
+- K-Nearest Neighbors
+- Regressão logística aplicada à classificação
+- Support Vector Machines
+- Árvores de decisão e florestas aleatórias
+- Uso da biblioteca Scikit-Learn para classificação
+
+### 6. Técnicas de Regressão
+
+- Regressão linear simples e múltipla
+- Ridge Regression
+- LASSO
+- ElasticNet
+- Modelos NARX polinomiais (biblioteca [SysIdentPy](https://sysidentpy.org/) em problemas de regressão)
+- Uso da biblioteca Scikit-Learn para regressão
+
+### 7. Sistemas Recomendadores
+
+- Filtragem colaborativa.
+- Baseline de Popularidade
+- Precision@K
+
+### 8. Aplicações em Sistemas Reais
+
+- Regressão aplicada à vibração da asa de um caça F-16 com dados experimentais de acelerômetro
+- Modelagem matemática de um sistema motor-gerador com dados experimentais
+- Benchmarks em problemas como predição de carga, previsão de passageiros na aviação comercial e sistemas de recomendação baseados em dados
+
+## Metodologia
+
+A disciplina utiliza uma abordagem teórico-prática, combinando:
+
+- aulas expositivas;
+- quadro e discussões conceituais;
+- laboratório de informática;
+- implementação de modelos e análises em Python.
+
+## Ambiente de Desenvolvimento
+
+Recomenda-se o uso de **Python** com gerenciamento de ambiente por **Conda**.
